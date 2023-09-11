@@ -9,3 +9,7 @@ header, footer {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+.images-carousel {
+    max-height: 400px;
+}
